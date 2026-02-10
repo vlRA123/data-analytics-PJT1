@@ -7,7 +7,11 @@ Data Analytics-Machine Learning
 2. Project Title
 Data Analysis: Customer Churn Prediction
 <hr>
-3.<table>
+3.
+Team information
+<br>
+Team name:  <b>Mazza</b> 
+<table>
   <thead>
     <tr>
       <th>Student Name</th>
